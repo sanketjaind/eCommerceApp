@@ -1,0 +1,1 @@
+insert into Item values(1, 'laptop', 'dell', 'Electronic', 30000);

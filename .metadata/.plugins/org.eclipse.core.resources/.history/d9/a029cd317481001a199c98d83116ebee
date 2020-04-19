@@ -1,0 +1,5 @@
+insert into Item values(1, 'laptop', 'dell', 'Electronic', 30000);
+insert into Item values(2, 'laptop', 'dell', 'Electronic', 30000);
+insert into Item values(3, 'laptop', 'dell', 'Electronic', 30000);
+insert into Item values(4, 'laptop', 'dell', 'Electronic', 30000);
+insert into Item values(5, 'laptop', 'dell', 'Electronic', 30000);

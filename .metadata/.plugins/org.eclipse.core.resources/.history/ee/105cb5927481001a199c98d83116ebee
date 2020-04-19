@@ -1,0 +1,5 @@
+insert into Item values(1, 'laptop', 'dell', 'Electronic', 30000);
+insert into Item values(2, 'earphone', 'realme', 'Electronic', 3000);
+insert into Item values(3, 'shirt', 'Adidas', 'fasion', 3000);
+insert into Item values(4, 'paracetomol', '1mg', 'medicine', 500);
+insert into Item values(5, 'grocery', 'nescafe', 'grocery', 300);

@@ -1,0 +1,29 @@
+package com.ecom.app;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+
+public class Order {
+	private Long id;
+	private int totalNoOfOrder;
+	
+	public Long getId() {
+		return id;
+	}
+	
+	public void setId(Long id) {
+		this.id = id;
+	}
+	
+	public int getTotalNoOfOrder() {
+		return totalNoOfOrder;
+	}
+	
+	public void setTotalNoOfOrder(int totalNoOfOrder) {
+		this.totalNoOfOrder = totalNoOfOrder;
+	}
+
+}
